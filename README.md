@@ -18,19 +18,15 @@ Este projeto é uma implementação do clássico Jogo da Velha (Tic-Tac-Toe) uti
    ```sh
    git clone https://github.com/seu-usuario/react-tic-tac-toe.git
    ```
-2. Acesse a pasta do projeto:
-   ```sh
-   cd react-tic-tac-toe
-   ```
-3. Instale as dependências:
+2. Instale as dependências:
    ```sh
    npm install
    ```
-4. Inicie o servidor de desenvolvimento:
+3. Inicie o servidor de desenvolvimento:
    ```sh
    npm start
    ```
-5. Acesse no navegador:
+4. Acesse no navegador:
    ```
    http://localhost:3000
    ```
